@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AllyFOG
-- 👀 I’m interested in HTML CSS JAVE SCRIPT
+- 👀 I’m interested in HTML CSS JAVA SCRIPT
 - 🌱 I’m currently learning BUG HUNTER
 - 💞️ I’m looking to collaborate on BUSINESS
 - 📫 How to reach me shinz7@yahoo.com
